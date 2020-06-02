@@ -105,11 +105,11 @@ p{
 }
 
 .contain .card:nth-child(1) .icon {
-  background-image: url("../img/ecommerce.png");
+  background-image: url(../img/ecommerce.png);
 }
 
 .contain .card:nth-child(2) .icon {
-  background-image: url("../img/covid-19.png");
+  background-image: url(../img/covid-19.png);
 }
 .pill{
   border-bottom: solid;
